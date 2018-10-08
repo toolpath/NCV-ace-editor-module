@@ -4,7 +4,7 @@
 [![CircleCI](https://img.shields.io/circleci/project/github/NCViewer/ace-editor-module.svg?style=flat-square)](https://circleci.com/gh/NCViewer/ace-editor-module)
 [![Codecov](https://img.shields.io/codecov/c/github/NCViewer/ace-editor-module.svg?style=flat-square)](https://codecov.io/gh/NCViewer/ace-editor-module)
 [![Dependencies](https://david-dm.org/NCViewer/ace-editor-module/status.svg?style=flat-square)](https://david-dm.org/NCViewer/ace-editor-module)
-[![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 > Ace Editor module for Nuxt.js
 
