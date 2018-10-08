@@ -1,6 +1,6 @@
 # @ncviewer/ace-editor-module
-[![npm (scoped with tag)](https://img.shields.io/npm/v/ace-editor-module/latest.svg?style=flat-square)](https://npmjs.com/package/ace-editor-module)
-[![npm](https://img.shields.io/npm/dt/ace-editor-module.svg?style=flat-square)](https://npmjs.com/package/ace-editor-module)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/@ncviewer/ace-editor-module/latest.svg?style=flat-square)](https://npmjs.com/package/ace-editor-module)
+[![npm](https://img.shields.io/npm/dt/@ncviewer/ace-editor-module.svg?style=flat-square)](https://npmjs.com/package/ace-editor-module)
 [![CircleCI](https://img.shields.io/circleci/project/github/NCViewer/ace-editor-module.svg?style=flat-square)](https://circleci.com/gh/NCViewer/ace-editor-module)
 [![Codecov](https://img.shields.io/codecov/c/github/NCViewer/ace-editor-module.svg?style=flat-square)](https://codecov.io/gh/NCViewer/ace-editor-module)
 [![Dependencies](https://david-dm.org/NCViewer/ace-editor-module/status.svg?style=flat-square)](https://david-dm.org/NCViewer/ace-editor-module)
