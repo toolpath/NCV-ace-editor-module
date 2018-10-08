@@ -1,6 +1,6 @@
 {
   "name": "@ncviewer/ace-editor-module",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Ace Editor module for Nuxt.js",
   "license": "MIT",
   "contributors": [
